@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "teach": {
+      "source": "mishatojk/davidskills",
+      "sourceType": "github",
+      "skillPath": "skills/thinking-and-docs/teach/SKILL.md",
+      "computedHash": "e761a66cd8453c62ac13a74615b6fa50dec220d47004c35e6b2d8645eef0390b"
+    }
+  }
+}
