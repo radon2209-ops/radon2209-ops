@@ -13,6 +13,12 @@
       "skillPath": "pm-product-discovery/skills/analyze-feature-requests/SKILL.md",
       "computedHash": "c0c1815f750b4a0ff6dccd5accdec50659ddc4015de80a4dc51e0608b6d71587"
     },
+    "anatomy": {
+      "source": "wheresryan22/anatomy",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "37fe1f16683eddee1b3723a3fe8e4a5b92bb653a6991128a372d3268730cdc90"
+    },
     "ansoff-matrix": {
       "source": "phuryn/pm-skills",
       "sourceType": "github",
@@ -90,6 +96,12 @@
       "sourceType": "github",
       "skillPath": "pm-market-research/skills/customer-journey-map/SKILL.md",
       "computedHash": "793689f403818a1a357e5fac0f36f9a83397fbca2ed9e56de849cfc957010f68"
+    },
+    "diagram-design": {
+      "source": "cathrynlavery/diagram-design",
+      "sourceType": "github",
+      "skillPath": "skills/diagram-design/SKILL.md",
+      "computedHash": "60a5683c454680790701665621d37e7d519c971c0fade9632a396c44b005383b"
     },
     "docx": {
       "source": "anthropics/skills",
@@ -324,6 +336,18 @@
       "sourceType": "github",
       "skillPath": "pm-toolkit/skills/review-resume/SKILL.md",
       "computedHash": "457ce744e2da12f85aa98d0a4f5f08eec71817405cb2c06b45c09575b83b9852"
+    },
+    "scientific-illustrations": {
+      "source": "fmschulz/scientific-illustrations-skill",
+      "sourceType": "github",
+      "skillPath": "skill/SKILL.md",
+      "computedHash": "ae9d40bc97b7ab8f3a7ad079d3d3044f2b5f7e060bf531966e2abb2185afeb29"
+    },
+    "scientific-schematics": {
+      "source": "K-Dense-AI/claude-scientific-writer",
+      "sourceType": "github",
+      "skillPath": "skills/scientific-schematics/SKILL.md",
+      "computedHash": "9b414750d57703520f348ee293cdc59e1198d55a864cb4bbab675dbb5f35dac1"
     },
     "sentiment-analysis": {
       "source": "phuryn/pm-skills",
